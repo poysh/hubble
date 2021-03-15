@@ -1,0 +1,7 @@
+menu "NFC Library"
+
+rsource "st25r3911b/Kconfig"
+
+endmenu
+
+source "Kconfig.zephyr"
