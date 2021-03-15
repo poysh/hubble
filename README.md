@@ -132,6 +132,7 @@ west flash -d build/ --esp-device /dev/tty.SLAB_USBtoUART && screen /dev/ttySLAB
 
 Current result as below:
 
+![Result](./docs/img/proj_result.png)
 
 <a name="Status"></a>
 # Status of Current Project
