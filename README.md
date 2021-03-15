@@ -20,6 +20,20 @@
 
 *  **ESP32 Chipset** : Reference link from <a href = "https://www.espressif.com/en/products/socs/esp32"> here </a>
 *  **ESP32 Eval Kit** : Reference link from <a href = "https://www.espressif.com/en/products/devkits"> here </a>
+*  **ST25R39 Eval Kit** : Reference link from <a href = "https://www.st.com/en/evaluation-tools/st25r3916-disco.html"> here </a>
+
+> Hardware connection
+
+| Index |  ESP32 |  ST25 |
+|:-----:|:------:|:-----:|
+|  VCC  |  3.3V  |  J4.8 |
+|  VRF  |   5V   |  J5.2 |
+|  GND  |   GND  | J4.14 |
+|  MISO | GPIO19 | J4.10 |
+|  MOSI | GPIO23 |  J4.9 |
+|   CS  |  GPIO5 | J4.13 |
+|  CLK  | GPIO18 | J4.12 |
+|  IRQ  | GPIO26 |  J4.4 |
 
 <a name="Instruction"></a>
 # Instruction
